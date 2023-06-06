@@ -1,0 +1,2 @@
+# Hyperskill
+Smaller problems

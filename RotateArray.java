@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Main {
+class RotateArray {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         //Reading in array size
